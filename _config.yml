@@ -7,7 +7,7 @@ description: 'I am Md Musfiqur Rahman Jehad. A professional web developer'
 baseurl: '' # The subpath of your site, e.g., /blog
 url: 'https://duckist.me' # The base hostname & protocol for your site
 repository: 'https://github.com/duckist/duckist.github.io' # Repository URL
-theme: jekyll-theme-minimal-mistakes
+theme: jekyll-theme-minimal
 
 # Build settings
 markdown: kramdown
